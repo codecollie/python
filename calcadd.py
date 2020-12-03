@@ -1,4 +1,4 @@
-# file: addition.py
+# file: calcadd.py
 
 num1 = input("Enter a number: ")
 num2 = input("Enter another number: ")
