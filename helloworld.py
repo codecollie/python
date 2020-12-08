@@ -1,4 +1,4 @@
-# This program prints Hello, world!
+# file: /python/helloworld.py
 
-print("Epstein didn't kill himself.")
+print("epstein didn't kill himself.")
 
