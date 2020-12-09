@@ -1,4 +1,4 @@
-# file python/calcadd.py
+# file: python/calcadd.py
 
 num1 = input("enter a ghey ass number: ")
 num2 = input("enter another ghey ass number: ")
